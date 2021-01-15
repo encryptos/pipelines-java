@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/curtisbell0832/testing_devops/_apis/build/status/encryptos.pipelines-java?branchName=master)](https://dev.azure.com/curtisbell0832/testing_devops/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
